@@ -83,6 +83,14 @@
 #Plans{
     margin-top: 130px;
 }
+.plan-head {
+    text-align: center;
+}
+.plan-head h2{
+    font-weight: 700;
+    font-size: 40px;
+    padding-bottom: 48px;
+}
 .my-Plans{
     display: flex;
     justify-content: space-between;
@@ -102,6 +110,36 @@
     padding-top: 10px;
 }
 
+/* js style start  */
+#javascript{
+    margin-top: 130px;
+}
+.js-main{
+    display: flex;
+    justify-content: space-evenly;
+}
+.js-image{
+    width: 400px;
+}
+.js-details{
+    margin-top: 40px;
+}
+.js-details h2{
+    font-size: 30px;
+    background-color: #F15B22;
+    color: #FFFFFF;
+    display: inline;
+    padding: 8px 20px;
+}
+.js-details h1{
+    padding-top: 20px;
+    font-size: 40px;
+    color: #005FAC;
+}
+.for-new{
+    font-size: 30px;
+    color: #F15B22;
+}
 /* positive mindset style start  */
 #positive-mindset{
         margin-top: 130px;
