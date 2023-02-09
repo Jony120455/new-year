@@ -36,8 +36,9 @@
     margin-top: 32px;
     border: none;
 }
+/* header style end  */
 
-/* failer section start  */
+/* failer style start  */
 #failures{
     margin-top: 130px;
 }
@@ -78,8 +79,9 @@
 .failer-detail i{
     color: #16D887;
 }
+/* failer style start  */
 
-/* plan section start  */
+/* plan style start  */
 #Plans{
     margin-top: 130px;
 }
@@ -109,6 +111,7 @@
     font-size: 20px;
     padding-top: 10px;
 }
+/* plan style start  */
 
 /* js style start  */
 #javascript{
@@ -140,6 +143,8 @@
     font-size: 30px;
     color: #F15B22;
 }
+/* js style start  */
+
 /* positive mindset style start  */
 #positive-mindset{
         margin-top: 130px;
@@ -170,6 +175,8 @@
     font-weight: 600;
     font-size: 20px;
 } 
+
+/* positive mindset style end */
 
 /* footer section start  */
 #footer{
@@ -220,3 +227,4 @@
     border-radius: 8px;
     margin-top: 31px;
 }
+/* footer section end  */
